@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AuthLogin - API Test Automation Framework
 
 ## Overview
@@ -17,3 +18,6 @@
 
 ## What's Tested
 (brief list: login success, negative cases, schema validation, authenticated fixture)
+=======
+# Playwright-Auth-Login-Project
+>>>>>>> 01cf16ad8545f64e7bba23019fc53ff9208f5aee
